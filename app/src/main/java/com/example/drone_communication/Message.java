@@ -1,4 +1,4 @@
-package com.example.you_tube_wifi_app;
+package com.example.drone_communication;
 
 public class Message {
     private String text;

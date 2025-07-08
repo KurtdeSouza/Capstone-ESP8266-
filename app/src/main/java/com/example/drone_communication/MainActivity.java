@@ -1,4 +1,4 @@
-package com.example.you_tube_wifi_app;
+package com.example.drone_communication;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -15,11 +15,12 @@ import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+
+
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.net.SocketException;
-import java.net.UnknownHostException;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package com.example.you_tube_wifi_app;
+package com.example.drone_communication;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.you_tube_wifi_app", appContext.getPackageName());
+        assertEquals("com.example.drone_communication", appContext.getPackageName());
     }
 }

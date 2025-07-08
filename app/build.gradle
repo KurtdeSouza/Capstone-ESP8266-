@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.you_tube_wifi_app'
+    namespace 'com.example.drone_communication'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.you_tube_wifi_app"
+        applicationId "com.example.drone_communication"
         minSdk 24
         targetSdk 33
         versionCode 1

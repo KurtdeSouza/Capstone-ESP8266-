@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "You_Tube_WIFI_APP"
+rootProject.name = "drone_communication"
 include ':app'
